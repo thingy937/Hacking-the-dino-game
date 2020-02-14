@@ -32,5 +32,3 @@
 <p style="text-align: left;">This is the end of the turtorial. Thanks for reading since dependent on what use this gets i might make more tutorials in the future.</p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
-
-<a href="thingy937.github.io">Click here</a>
