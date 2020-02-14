@@ -1,7 +1,5 @@
 <p>&nbsp;</p>
 <!-- #######  DON'T GO LOOKING WHERE YOUR NOT MEANT TO. #########-->
-<h1 style="color: #5e9ca0; text-align: center;"><span style="color: #993366; background-color: #ffffff;"><strong><span style="text-decoration: underline;">Welcome</span></strong></span></h1>
-<p><span style="color: #000000;"><strong><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">This is work in progress.</span></span></strong></span></p>
 <h2 style="color: #2e6c80; text-align: center;"><span style="color: #0000ff;"><strong><span style="text-decoration: underline;">Hacking the dino game.</span></strong></span></h2>
 <p style="text-align: center;">Hacking the chrome dino game is actually surprisingly easy once you know what code to put in.</p>
 <p style="text-align: center;">To find the dino game you either need to have lost an internet connection or of gone to chrome://dino (I recommend the second option by far). Once on the page you can right click anywhere on the page or press F12 to bring up the inspect element page. Once there you select the console tab at the top of the page. In this is where we are going to input our code to hack the game. You will find the code beneath.</p>
