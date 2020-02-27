@@ -17,7 +17,7 @@
 <p style="text-align: center;">My custom graphics for the game aren't quite complete yet, but basically inputting this image into the game code will put the game into full colour which I prepared myself. (I will also in the future add the base canvas of the game which you can edit with a full list of instructions to create your own custom graphics).</p>
 <p style="text-align: center;">Here are the instuctions:</p>
 <p style="text-align: left;">1) Right click the imgae below and select copy image address.</p>
-<p style="text-align: left;"><img src="https://github.com/thingy937/dino-game-test-stuff/blob/master/DinoGameCustom.png?raw=true" /></p>
+<p style="text-align: left;"><img src="https://github.com/thingy937/thingy937.github.io/blob/master/DinoGameCustom.png?raw=true" /></p>
 <p style="text-align: left;">&nbsp;2) Navigate back to the elements tab of the inspect element page.&nbsp;</p>
 <p style="text-align: left;">3) When looking at the elements you will see a drop down named "offline-resources". Select this.</p>
 <p style="text-align: left;">4) You will see two image id's. Right click the one labeled "offline-resources-1x" and select edit as html.</p>
